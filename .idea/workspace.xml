@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8794e19-8655-475e-98e1-a56a2c03c82c" name="Default Changelist" comment="" />
+    <list default="true" id="a8794e19-8655-475e-98e1-a56a2c03c82c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/inheritanceExample/Example14_Static_NonStatic_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritanceExample/Example19_CallingCOnstructorAsMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Base2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Base2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Base3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Base3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Base4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Base4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/C10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/C10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/C11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/C11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/C13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/C13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/C8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/C8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/C9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/C9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Complex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Complex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Derived.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Derived.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Derived2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Derived2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Derived3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Derived3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Derived4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Derived4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Grandparent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Grandparent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/M.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/M.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/M15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/M15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/M16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/M16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/N.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/N.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/N15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/N15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/N16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/N16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/One27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/One27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Two27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Two27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/X12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/X12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/X18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/X18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Y12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Y12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Y18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Y18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example1_ParentChildMethodCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example10_StaticBlockCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example11_ConstructorCallOfNestedClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example12_StaticMethodCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example13_ConstructorCallInInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example15_SuperInConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example16_SuperWithParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example17_StaticBlockCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example18_StaticMethodCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example2_ParentChildMethodCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example20_ChildConstructorWith.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example21_MultipleStaticBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example25_ConstructorWithParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example27_NonStaticBlockCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example3_ParentChildMethodCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example4_PrivateMethodAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example5_SuperMethodCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example6_ConstructorAndToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example7_NestedMethodCallWithVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example8_NonStaticCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceExample/Example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceExample/Example9_SuperCall.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,49 +105,101 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CoreJavaBasics" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example25.java">
+        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example17_StaticBlockCall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="144">
+              <caret line="28" column="38" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example4_PrivateMethodAccess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example3_ParentChildMethodCall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example27_NonStaticBlockCall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example2_ParentChildMethodCall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="29" column="36" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example15_SuperInConstructor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="22" column="41" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example13_ConstructorCallInInheritance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
               <folding>
-                <element signature="e#93#94#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#69#70#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example26.java">
+        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example14_Static_NonStatic_Constructor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-118">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="88">
+              <caret line="37" column="51" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example20_ChildConstructorWith.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example27.java">
+        <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example21_MultipleStaticBlock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-34">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -70,53 +215,64 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/flowcontrol/ifelse/Example1.java" />
-        <option value="$PROJECT_DIR$/src/flowcontrol/switchExample/SwitchExample.java" />
-        <option value="$PROJECT_DIR$/src/flowcontrol/whileLoop/WhileLoopExample.java" />
-        <option value="$PROJECT_DIR$/src/flowcontrol/dowhile/DoWhileExample.java" />
-        <option value="$PROJECT_DIR$/src/flowcontrol/flowControl_labels/ContinueExample.java" />
-        <option value="$PROJECT_DIR$/src/flowcontrol/flowControl_labels/BreakExample.java" />
-        <option value="$PROJECT_DIR$/src/flowcontrol/accessModifier/finalEx/FinalVariableExample.java" />
-        <option value="$PROJECT_DIR$/src/flowcontrol/accessModifier/FinalVariableExample.java" />
-        <option value="$PROJECT_DIR$/src/flowcontrol/accessModifier/finalEx/FinalVariableExample1.java" />
-        <option value="$PROJECT_DIR$/src/accessModifier/finalEx/FinalVariableExample1.java" />
-        <option value="$PROJECT_DIR$/src/flowcontrol/forloop/ForLoop.java" />
-        <option value="$PROJECT_DIR$/src/overloading/MethodOverLoadingExample1.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example1.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example2.java" />
-        <option value="$PROJECT_DIR$/src/abstractExample/Example.java" />
-        <option value="$PROJECT_DIR$/src/abstractExample/Example1.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Ecxample7.java" />
         <option value="$PROJECT_DIR$/src/interfacesExample/Complex.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example16.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example22.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example21.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example20.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example19.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example18.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example17.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example15.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example14.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example13.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example12.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example11.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example10.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example9.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example8.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example7.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example6.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example5.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example4.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example3.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example23.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example24.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example25.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example26.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example27.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example14.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example1.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example4.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example5.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example7.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/ConstructorCallOfNestedClassesExample11.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example18StaticMethodCall.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example19CallingCOnstructorAsMethod.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example19_CallingCOnstructorAsMethod.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example18_StaticMethodCall.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example11_ConstructorCallOfNestedClasses.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/ConstructorAndToStringExample6.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/ConstructorExample25.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/NestedMethodCallWithVariableExample7.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/ParentChildMethodCallExample1.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/StaticCallExample10.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/SuperCallExample9.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/NonStaticCallExample8.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/SuperWithParameterExample16.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/SuperMethodCallExample5.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/StaticMethodCallExample12.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/StaticBlockCallExample17.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/PrivateMethodAccessExample4.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/ParentChildMethodCallExample3.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/NonStaticBlockExample27.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/ParentChildMethodCallExample2.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/SuperInConstructorExample15.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/ConstructorCallInInheritance.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Static_NonStatic_ConstructorExample.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example20.java" />
+        <option value="$PROJECT_DIR$/src/inheritanceExample/Example21.java" />
       </list>
     </option>
   </component>
@@ -145,6 +301,19 @@
               <item name="CoreJavaBasics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CoreJavaBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJavaBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inheritanceExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoreJavaBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJavaBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inheritanceExample" type="462c0819:PsiDirectoryNode" />
+              <item name="Example21_MultipleStaticBlock.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -154,6 +323,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,9 +337,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example27">
-    <configuration name="Example23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceExample.Example23" />
+  <component name="RunManager" selected="Application.Example21_MultipleStaticBlock">
+    <configuration name="Example13_ConstructorCallInInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritanceExample.Example13_ConstructorCallInInheritance" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
@@ -181,8 +351,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceExample.Example26" />
+    <configuration name="Example19CallingCOnstructorAsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritanceExample.Example19CallingCOnstructorAsMethod" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
@@ -194,8 +364,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceExample.Example27" />
+    <configuration name="Example21_MultipleStaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritanceExample.Example21_MultipleStaticBlock" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
@@ -207,8 +377,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceExample.Example3" />
+    <configuration name="NonStaticBlockExample27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritanceExample.NonStaticBlockExample27" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
@@ -220,8 +390,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceExample.Example4" />
+    <configuration name="SuperMethodCallExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritanceExample.SuperMethodCallExample5" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
@@ -234,19 +404,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Example4" />
-      <item itemvalue="Application.Example3" />
-      <item itemvalue="Application.Example23" />
-      <item itemvalue="Application.Example26" />
-      <item itemvalue="Application.Example27" />
+      <item itemvalue="Application.NonStaticBlockExample27" />
+      <item itemvalue="Application.SuperMethodCallExample5" />
+      <item itemvalue="Application.Example19CallingCOnstructorAsMethod" />
+      <item itemvalue="Application.Example13_ConstructorCallInInheritance" />
+      <item itemvalue="Application.Example21_MultipleStaticBlock" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example27" />
-        <item itemvalue="Application.Example26" />
-        <item itemvalue="Application.Example23" />
-        <item itemvalue="Application.Example3" />
-        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example21_MultipleStaticBlock" />
+        <item itemvalue="Application.Example13_ConstructorCallInInheritance" />
+        <item itemvalue="Application.Example19CallingCOnstructorAsMethod" />
+        <item itemvalue="Application.SuperMethodCallExample5" />
+        <item itemvalue="Application.NonStaticBlockExample27" />
       </list>
     </recent_temporary>
   </component>
@@ -267,21 +437,21 @@
     <frame x="5" y="23" width="1275" height="704" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2538524" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49868765" visible="true" weight="0.2538524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5013123" side_tool="true" weight="0.2538524" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38071895" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38071895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37745097" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.37745097" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
@@ -409,32 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#65#66#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-          <folding>
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/abstractExample/Example1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -464,191 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="42" column="2" lean-forward="true" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#56#57#0" expanded="true" />
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-          <folding>
-            <element signature="e#79#80#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-          <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding>
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding>
-            <element signature="e#75#76#0" expanded="true" />
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example23.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -656,36 +615,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-          <folding>
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example26.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-118">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
             <element signature="e#140#141#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
@@ -695,14 +628,199 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example27.java">
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="122">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example19_CallingCOnstructorAsMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
           <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#60#61#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example18_StaticMethodCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example11_ConstructorCallOfNestedClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example6_ConstructorAndToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example25_ConstructorWithParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example7_NestedMethodCallWithVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example1_ParentChildMethodCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="e#65#66#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example10_StaticBlockCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example9_SuperCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example8_NonStaticCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example16_SuperWithParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example5_SuperMethodCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example12_StaticMethodCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example17_StaticBlockCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example4_PrivateMethodAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example3_ParentChildMethodCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example27_NonStaticBlockCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example2_ParentChildMethodCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example15_SuperInConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example13_ConstructorCallInInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example14_Static_NonStatic_Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="37" column="51" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example20_ChildConstructorWith.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritanceExample/Example21_MultipleStaticBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>

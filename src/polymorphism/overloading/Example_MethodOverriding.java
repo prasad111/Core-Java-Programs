@@ -13,10 +13,10 @@ class A29{
 }
 
 class B29 extends A29 {
-    public int show(){
+    /*public int show(){
         System.out.println("Inside SHow Of Chile");
         return 12;
-    }
+    }*/
 
     public void methodTwo(){
         System.out.println("Inside methodOne Of Parent");

@@ -2,9 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8794e19-8655-475e-98e1-a56a2c03c82c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Example28_ParentCHildMehtodCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/overloading/Example_MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/InterruptExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/OverloadRunMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/SleepExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/SynchronizedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/THreadWithoutRunExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExampe2WithStartMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample5WithRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample6WithThreadName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample7ThreadPreventMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadInterruptDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadJoinExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadYieldExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/A24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/B24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Example26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/X26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/X26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Y26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaBasics/inheritanceExample/Y26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/overloading/Example_MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymorphism/overloading/Example_MethodOverriding.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +44,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/abstractExample/Example1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ThreadExample1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="255">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ThreadExampe2WithStartMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <folding>
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ThreadExample6WithThreadName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ThreadExample7ThreadPreventMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ThreadYieldExample1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ThreadJoinExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/SleepExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/InterruptExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/thread/SynchronizedDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-20">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -48,20 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example18.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example17.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example15.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example13.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example12.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example11.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example10.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example9.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example8.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example6.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example3.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example25.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example27.java" />
-        <option value="$PROJECT_DIR$/src/inheritanceExample/Example14.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example1.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example4.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example5.java" />
@@ -98,7 +185,21 @@
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example26.java" />
         <option value="$PROJECT_DIR$/src/inheritanceExample/Example28_ParentCHildMehtodCall.java" />
         <option value="$PROJECT_DIR$/src/polymorphism/Example28_ParentCHildMehtodCall.java" />
+        <option value="$PROJECT_DIR$/src/thread/ThreadExample1.java" />
         <option value="$PROJECT_DIR$/src/polymorphism/overloading/Example_MethodOverriding.java" />
+        <option value="$PROJECT_DIR$/src/thread/THreadWithoutRunExampl.java" />
+        <option value="$PROJECT_DIR$/src/thread/THreadWithoutRunExample.java" />
+        <option value="$PROJECT_DIR$/src/thread/OverloadRunMethodExample.java" />
+        <option value="$PROJECT_DIR$/src/thread/ThreadExampe2WithStartMethod.java" />
+        <option value="$PROJECT_DIR$/src/thread/ThreadExample5WithRunnable.java" />
+        <option value="$PROJECT_DIR$/src/thread/ThreadExample6WithThreadName.java" />
+        <option value="$PROJECT_DIR$/src/thread/ThreadExample7ThreadPreventMethod.java" />
+        <option value="$PROJECT_DIR$/src/thread/ThreadYieldExample1.java" />
+        <option value="$PROJECT_DIR$/src/thread/ThreadJoinExample.java" />
+        <option value="$PROJECT_DIR$/src/thread/SleepExample.java" />
+        <option value="$PROJECT_DIR$/src/thread/InterruptExample.java" />
+        <option value="$PROJECT_DIR$/src/thread/ThreadInterruptDemo1.java" />
+        <option value="$PROJECT_DIR$/src/thread/SynchronizedDemo.java" />
       </list>
     </option>
   </component>
@@ -131,28 +232,14 @@
               <item name="CoreJavaBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="CoreJavaBasics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="flowcontrol" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CoreJavaBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="CoreJavaBasics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoreJavaBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
-              <item name="overloading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoreJavaBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
-              <item name="overloading" type="462c0819:PsiDirectoryNode" />
-              <item name="Example_MethodOverriding.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadExample1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -177,13 +264,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example21_MultipleStaticBlock">
-    <configuration name="Example13_ConstructorCallInInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceExample.Example13_ConstructorCallInInheritance" />
+  <component name="RunManager" selected="Application.SynchronizedDemo">
+    <configuration name="InterruptExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.InterruptExample" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example19CallingCOnstructorAsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceExample.Example19CallingCOnstructorAsMethod" />
+    <configuration name="SleepExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.SleepExample" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example21_MultipleStaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceExample.Example21_MultipleStaticBlock" />
+    <configuration name="SynchronizedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.SynchronizedDemo" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonStaticBlockExample27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceExample.NonStaticBlockExample27" />
+    <configuration name="ThreadInterruptDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadInterruptDemo1" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperMethodCallExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceExample.SuperMethodCallExample5" />
+    <configuration name="ThreadJoinExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadJoinExample" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,19 +331,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NonStaticBlockExample27" />
-      <item itemvalue="Application.SuperMethodCallExample5" />
-      <item itemvalue="Application.Example19CallingCOnstructorAsMethod" />
-      <item itemvalue="Application.Example13_ConstructorCallInInheritance" />
-      <item itemvalue="Application.Example21_MultipleStaticBlock" />
+      <item itemvalue="Application.ThreadJoinExample" />
+      <item itemvalue="Application.SleepExample" />
+      <item itemvalue="Application.InterruptExample" />
+      <item itemvalue="Application.ThreadInterruptDemo1" />
+      <item itemvalue="Application.SynchronizedDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example21_MultipleStaticBlock" />
-        <item itemvalue="Application.Example13_ConstructorCallInInheritance" />
-        <item itemvalue="Application.Example19CallingCOnstructorAsMethod" />
-        <item itemvalue="Application.SuperMethodCallExample5" />
-        <item itemvalue="Application.NonStaticBlockExample27" />
+        <item itemvalue="Application.SynchronizedDemo" />
+        <item itemvalue="Application.ThreadInterruptDemo1" />
+        <item itemvalue="Application.InterruptExample" />
+        <item itemvalue="Application.SleepExample" />
+        <item itemvalue="Application.ThreadJoinExample" />
       </list>
     </recent_temporary>
   </component>
@@ -271,12 +358,21 @@
       <option name="presentableId" value="Default" />
       <updated>1563636189698</updated>
     </task>
+    <task id="LOCAL-00001" summary="Override classes program added">
+      <created>1564056004307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564056004307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="23" width="1275" height="704" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49868765" visible="true" weight="0.2538524" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49868765" visible="true" weight="0.25790754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -285,12 +381,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.5013123" side_tool="true" weight="0.2538524" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38071895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35947713" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.57843137" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3970588" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
@@ -304,57 +400,11 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Override classes program added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Override classes program added" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/flowcontrol/asdad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/flowcontrol/ifelse/Example1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="43" />
-          <folding>
-            <element signature="e#1288#1289#0" expanded="true" />
-            <element signature="e#1316#1317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/flowcontrol/switchExample/SwitchExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/flowcontrol/whileLoop/WhileLoopExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/flowcontrol/dowhile/DoWhileExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="80" column="55" selection-start-line="80" selection-start-column="55" selection-end-line="80" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/flowcontrol/flowControl_labels/ContinueExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -369,13 +419,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/flowcontrol/accessModifier/finalEx/asd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flowcontrol/accessModifier/finalEx/asd.java" />
     <entry file="file://$PROJECT_DIR$/src/accessModifier/finalEx/FinalClassExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -654,19 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/polymorphism/overloading/Example_MethodOverriding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/polymorphism/Example28_ParentCHildMehtodCall.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
@@ -687,7 +718,119 @@
     <entry file="file://$PROJECT_DIR$/src/abstractExample/Example1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/polymorphism/overloading/Example_MethodOverriding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="18" column="7" selection-start-line="15" selection-start-column="4" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/THreadWithoutRunExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/OverloadRunMethodExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="18" column="51" selection-end-line="25" />
+          <folding>
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ThreadExample5WithRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ThreadExample6WithThreadName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ThreadExample7ThreadPreventMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ThreadYieldExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ThreadExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ThreadExampe2WithStartMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ThreadJoinExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/SleepExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ThreadInterruptDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/InterruptExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/SynchronizedDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
